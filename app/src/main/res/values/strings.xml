@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shark image</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_all">All</string>
+    <string name="txt_save_img">Save Img</string>
+    <string name="txt_delete_img">Delete Img</string>
+    <string name="txt_delete_all">Delete All</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_logout">Logout</string>
+    <string name="txt_welcome">Welcome,&#160;</string>
+    <string name="txt_id">ID :&#160;</string>
+    <string name="txt_name">Name :&#160;</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_update_name">Update name</string>
+</resources>
